@@ -1,0 +1,5 @@
+baseURL = 'https://widehasoi.nex.sh/'
+languageCode = 'en-us'
+title = 'WHW: Wide Hasoi Widesite'
+theme = 'archie'
+
